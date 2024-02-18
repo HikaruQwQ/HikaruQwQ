@@ -1,31 +1,31 @@
-# Github Account of Zhu Hongrui
+### Hi there 👋
 
-This is **ZhuHongrui (MengXiCenter)**.
+<br />
+<br />
 
-This is my Github Account.
+Hi, I'm Sh1n3zZ.
 
-# About Me
+  <img align="right" alt="GIF" src="https://stats.deeptrain.net/user/MengXiCenter" />
 
-- 👋 Hey!I'm [ZhuHongrui(MengXiCenter)](https://mengxiblog.top/ "Go to my blog (Chinese)~")
-- 👀 I’m interested in React, Python3, Java and Material Design!
-- 🌱 I’m currently learning C++ and Next.js
+**Current Status Quo**
 
-[![My GitHub Information](https://github-readme-stats.vercel.app/api?username=MengXiCenter)]()
+- 👨🏻‍💻 13 years old, a middle school student. I'm studying at Hangzhou Dinghui Experimental Middle School.
+- 🌱 I’m currently learning Python.
+- 🤔 My research interest are web development and design.
+- 💼 I work for Zhuhai LightXi Cloud Technology Co., Ltd.
+- 💬 Ask me about anything, I would like to answer.
+- 📫 Please email via me#zhunote.cn to reach me.
+- 👀 See my [Blog](https://mengxiblog.top) to get more info.
 
-## How to reach me？
+**Where am I**
 
-📫 Please send a email at <me@zhunote.cn>
+- [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - staff
 
-🐧 Or QQ for [3418672426](http://wpa.qq.com/msgrd?v=3&uin=1570915261&site=qq&menu=yes "Add My QQ~")
+**Technology Stack**
 
-# My Blog Web
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,bootstrap,cloudflare,docker,git,github,gradle,java,kotlin,linux,md,mysql,nginx,nodejs,php,py,twitter,vscode,wordpress,xd,vim,idea,cpp)](https://skillicons.dev)
 
-This is my blog.Welcome to it——————<https://mengxiblog.top>
 
-# Work
 
-I was working with DailyNotes Team.I can help there Users.
 
-# My Skills
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,bootstrap,cloudflare,docker,git,github,gradle,heroku,java,kotlin,linux,md,mysql,netlify,nginx,nodejs,php,py,twitter,vscode,wordpress,xd,vim,redis,powershell,mongodb,kubernetes,idea,react,cpp)](https://skillicons.dev)
+❤️ From [MengXi](https://github.com/MengXiCenter)
