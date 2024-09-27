@@ -23,7 +23,7 @@ Hi, I'm MengXi.
 
 **Technology Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,androidstudio,bootstrap,cloudflare,docker,git,github,linux,md,mysql,nginx,nodejs,py,twitter,vscode,wordpress,xd,vim,cpp,postman,qt)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,bootstrap,vue,nodejs,cloudflare,docker,git,github,linux,md,mysql,nginx,py,twitter,vim,postman,qt,astro,django,githubactions,mongodb,androidstudio,pycharm,webstorm,vscode,xd,sentry,wordpress)](https://skillicons.dev)
 
 
 
