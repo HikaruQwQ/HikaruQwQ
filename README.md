@@ -9,7 +9,6 @@ Hi, I'm MengXi.
 
 **Current Status Quo**
 
-- 👨🏻‍💻 13 years old, a middle school student. I'm studying at Hangzhou Dinghui Experimental Middle School.
 - 🌱 I’m currently learning Python.
 - 🤔 My research interest are web development and design.
 - 💼 I work for Zhuhai LightXi Cloud Technology Co., Ltd.
@@ -20,6 +19,7 @@ Hi, I'm MengXi.
 **Where am I**
 
 - [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - staff
+- [HaoduStudio](https://github.com/HaoduStudio/) HaoduStudio - staff/programmer
 
 **Technology Stack**
 
