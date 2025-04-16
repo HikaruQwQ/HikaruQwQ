@@ -5,7 +5,7 @@
 
 Hi, I'm MengXi.
 
-  <img align="right" alt="GIF" src="https://stats.deeptrain.net/user/MengXiCenter" />
+[![wakatime](https://wakatime.com/badge/user/018b2b85-2c7a-43f7-bdb2-6292bb36c5c2.svg)](https://wakatime.com/@018b2b85-2c7a-43f7-bdb2-6292bb36c5c2)
 
 **Current Status Quo**
 
@@ -20,12 +20,8 @@ Hi, I'm MengXi.
 
 - [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - staff
 - [HaoduStudio](https://github.com/HaoduStudio/) HaoduStudio - staff/programmer
+- [HaoduStudio](https://git.nexaorion.cn/nexaorion) Nexaorion Group - funder
 
 **Technology Stack**
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,bootstrap,react,nodejs,cloudflare,docker,git,github,linux,md,mysql,nginx,py,twitter,vim,postman,qt,astro,django,githubactions,mongodb,androidstudio,pycharm,webstorm,vscode,xd,sentry,wordpress)](https://skillicons.dev)
-
-
-
-
-❤️ From [MengXi](https://github.com/MengXiCenter)
