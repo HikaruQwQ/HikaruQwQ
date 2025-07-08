@@ -4,7 +4,7 @@ Hi, I'm MengXi.
 
 [![wakatime](https://wakatime.com/badge/user/018b2b85-2c7a-43f7-bdb2-6292bb36c5c2.svg)](https://wakatime.com/@018b2b85-2c7a-43f7-bdb2-6292bb36c5c2)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HikaruQwQ&show_icons=true&theme=tokyonight)
+![Hikaru's GitHub stats](https://github-readme-stats.vercel.app/api?username=HikaruQwQ&show_icons=true&theme=tokyonight)
 
 <a href="https://gitroll.io/profile/uxyD96OtksbXfqJFsW4kb3GO5oCi1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxyD96OtksbXfqJFsW4kb3GO5oCi1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
