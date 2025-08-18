@@ -14,14 +14,14 @@ Hi, I'm MengXi.
 - 🤔 My research interest are web development and design.
 - 💼 I work for Zhuhai LightXi Cloud Technology Co., Ltd.
 - 💬 Ask me about anything, I would like to answer.
-- 📫 Please email via me#zhunote.cn to reach me.
+- 📫 Please email via imhikaru#proton.me to reach me.
 - 👀 See my [Blog](https://www.mengxiblog.top) to get more info.
 
 **Where am I**
 
-- [LightXi](https://github.com/LightXi/) Zhuhai LightXi Cloud Technology Co., Ltd. - staff
-- [HaoduStudio](https://github.com/HaoduStudio/) HaoduStudio - staff/programmer
-- [Nexaorion Global](https://github.com/Nexaorion) Nexaorion Group - funder
+- [LightXi](https://github.com/LightXi/):  Zhuhai LightXi Cloud Technology Co., Ltd. - staff
+- [HaoduStudio](https://github.com/HaoduStudio/): HaoduStudio - staff/programmer
+- [Nexaorion Global](https://github.com/Nexaorion):  Nexaorion Group - founder
 
 **Technology Stack**
 
