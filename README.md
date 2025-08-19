@@ -8,7 +8,8 @@ Hi, I'm MengXi.
 
 <a href="https://gitroll.io/profile/uxyD96OtksbXfqJFsW4kb3GO5oCi1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uxyD96OtksbXfqJFsW4kb3GO5oCi1?theme=tokyoNight" alt="GitRoll Profile Badge"/></a>
 
-**Current Status Quo**
+| STATUS QUO |
+| :--------------- |
 
 - 🌱 I’m currently learning Python.
 - 🤔 My research interest are web development and design.
@@ -17,12 +18,19 @@ Hi, I'm MengXi.
 - 📫 Please email via imhikaru#proton.me to reach me.
 - 👀 See my [Blog](https://www.mengxiblog.top) to get more info.
 
-**Where am I**
+| WHERE AM I |
+| :--------------- |
 
 - [LightXi](https://github.com/LightXi/):  Zhuhai LightXi Cloud Technology Co., Ltd. - staff
 - [HaoduStudio](https://github.com/HaoduStudio/): HaoduStudio - staff/programmer
 - [Nexaorion Global](https://github.com/Nexaorion):  Nexaorion Group - founder
 
-**Technology Stack**
+| MY TECH STACK |
+| :------------ |
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,cpp,bootstrap,react,nodejs,cloudflare,docker,git,github,linux,md,mysql,nginx,py,vim,postman,qt,astro,django,githubactions,mongodb,androidstudio,pycharm,webstorm,vscode,xd,sentry,wordpress)](https://skillicons.dev)
+[![TECH STACK](https://mobaicons.com/icons/react,nextjs,ts,html,css,javascript,mui,mysql,mysql,react-router,tailwindcss,shadcn,clerk)](https://github.com/Artist-MOBAI/MOBAIcons)
+
+| MY CURRENT TOOLS |
+| :--------------- |
+
+[![My Current Tools](https://mobaicons.com/icons/cloudflare,dify,eslint,figma,git,github,gitlab,npm,postman,vercel,aws,pnpm,qwen,vim,wordpress,codesandbox,cursor,windsurf,trae)](https://github.com/Artist-MOBAI/MOBAIcons)
