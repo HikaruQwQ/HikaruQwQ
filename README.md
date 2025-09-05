@@ -28,7 +28,7 @@ Hi, I'm MengXi.
 | MY TECH STACK |
 | :------------ |
 
-[![TECH STACK](https://mobaicons.com/icons/react,nextjs,ts,html,css,javascript,mui,mysql,mysql,react-router,tailwindcss,shadcn,clerk)](https://github.com/Artist-MOBAI/MOBAIcons)
+[![TECH STACK](https://mobaicons.com/icons/python,react,nextjs,ts,html,css,javascript,mui,mysql,mysql,react-router,tailwindcss,shadcn,clerk)](https://github.com/Artist-MOBAI/MOBAIcons)
 
 | MY CURRENT TOOLS |
 | :--------------- |
