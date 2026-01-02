@@ -26,9 +26,9 @@ Hi, I'm MengXi.
 | MY TECH STACK |
 | :------------ |
 
-[![TECH STACK](https://mobaicons.com/icons/python,react,nextjs,ts,html,css,javascript,mui,mysql,mysql,react-router,tailwindcss,shadcn,clerk)](https://github.com/Artist-MOBAI/MOBAIcons)
+[![TECH STACK](https://mobaicons.com/icons/python,react,nextjs,ts,html,css,javascript,mui,mysql,mysql,react-router,tailwindcss,shadcn,mui,ant)](https://github.com/Artist-MOBAI/MOBAIcons)
 
 | MY CURRENT TOOLS |
 | :--------------- |
 
-[![My Current Tools](https://mobaicons.com/icons/cloudflare,dify,eslint,figma,git,github,gitlab,npm,postman,vercel,aws,pnpm,qwen,vim,wordpress,codesandbox,cursor,windsurf,trae)](https://github.com/Artist-MOBAI/MOBAIcons)
+[![My Current Tools](https://mobaicons.com/icons/cloudflare,dify,docker,eslint,figma,git,github,gitlab,npm,postman,vercel,aws,pnpm,qwen,vim,wordpress,codesandbox,cursor,github-copilot,trae,chrome)](https://github.com/Artist-MOBAI/MOBAIcons)
