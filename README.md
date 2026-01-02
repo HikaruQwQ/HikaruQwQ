@@ -31,4 +31,4 @@ Hi, I'm MengXi.
 | MY CURRENT TOOLS |
 | :--------------- |
 
-[![My Current Tools](https://mobaicons.com/icons/cloudflare,dify,docker,eslint,figma,git,github,gitlab,npm,postman,vercel,aws,pnpm,qwen,vim,wordpress,codesandbox,cursor,github-copilot,trae,chrome)](https://github.com/Artist-MOBAI/MOBAIcons)
+[![My Current Tools](https://mobaicons.com/icons/cloudflare,dify,docker,eslint,figma,git,github,gitlab,npm,postman,vercel,aws,pnpm,qwen,vim,wordpress,codesandbox,cursor,github-copilot,chrome)](https://github.com/Artist-MOBAI/MOBAIcons)
