@@ -22,7 +22,7 @@ Hi, I'm MengXi.
 
 - [HaoduStudio](https://github.com/HaoduStudio/): HaoduStudio - staff/programmer
 - [Nexaorion Global](https://github.com/Nexaorion):  Nexaorion Group - founder
-- [Project Pigeon](https://github.com/Nexaorion):  Project Pigeon (from Nexaorion) - founder
+- [Project Pigeon](https://github.com/Proj-Pigeon):  Project Pigeon (from Nexaorion) - founder
 - [_entropy](https://www.entropy.asia): Entropy Order Frontier (Shanghai) Education Technology Co., Ltd. - Polaris Hackathon: Head of Development / Security / Legal / Public Relations
 - [LightXi](https://github.com/LightXi/):  Zhuhai LightXi Cloud Technology Co., Ltd. - staff
 
